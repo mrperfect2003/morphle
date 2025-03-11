@@ -1,6 +1,6 @@
 # morphle
-# this is for the first program i am not able to download ngrok 
-# kindly consider this as output
+# this is output for the question 6 kindly check the code and consider it is as a output  
+# cant able to run mgrok
 Quiz Link 1
 
 #output:- 
