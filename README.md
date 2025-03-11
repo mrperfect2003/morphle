@@ -3,24 +3,24 @@
 # cant able to run mgrok
 Quiz Link 1
 
-#output:- 
+output:- 
 
-#Name: Keshav
+Name: Keshav
 
-#Username: Keshav
+Username: Keshav
 
-#Server Time (IST): 2025-03-11 21:34:42 IST
+Server Time (IST): 2025-03-11 21:34:42 IST
 
-#Process Output
-#Image Name                     PID Session Name        Session#    Mem Usage
-#========================= ======== ================ =========== ============
-#System Idle Process              0 Services                   0          8 K
-#System                           4 Services                   0      4,836 K
-#Secure System                  172 Services                   0     41,416 K
-#Registry                       208 Services                   0     49,076 K
-#smss.exe                       732 Services                   0      1,156 K
-#csrss.exe                     1084 Services                   0      5,508 K
-#wininit.exe                   1228 Services                   0      6,916 K
+Process Output
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0      4,836 K
+Secure System                  172 Services                   0     41,416 K
+Registry                       208 Services                   0     49,076 K
+smss.exe                       732 Services                   0      1,156 K
+csrss.exe                     1084 Services                   0      5,508 K
+wininit.exe                   1228 Services                   0      6,916 K
 services.exe                  1360 Services                   0     15,032 K
 LsaIso.exe                    1396 Services                   0      3,732 K
 lsass.exe                     1412 Services                   0     26,876 K
