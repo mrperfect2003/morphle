@@ -1,5 +1,5 @@
 # morphle
-# this is output for the question 6 kindly check the code and consider it is as an output  
+# this is output for the question 7 kindly check the code and consider it is as an output  
 # cant able to run mgrok
 Quiz Link 1
 
